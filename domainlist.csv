@@ -117,14 +117,14 @@ id,type,domain,enabled,date_added,date_modified,comment
 131,0,jssdkcdns.mparticle.com,0,1589164525,1596806415,"Migrated from /etc/pihole/whitelist.txt"
 132,0,ds.reson8.com,0,1589164525,1596806418,"Migrated from /etc/pihole/whitelist.txt"
 133,0,identity.mparticle.com,0,1589164525,1596806418,"Migrated from /etc/pihole/whitelist.txt"
-134,0,t.mookie1.com,0,1589293104,1596806419,
-135,0,mobile.eum-appdynamics.com,0,1589293108,1596806420,
-136,0,mobile-collector.newrelic.com,0,1589412572,1596806420,
-137,0,www.nickjr.com,0,1589412625,1596807018,
-138,0,kinesis.us-east-1.amazonaws.com,0,1589412659,1596806424,
-139,0,mtv.hb.omtrdc.net,0,1589412674,1596806425,
-140,0,a-fds.youborafds01.com,0,1589412677,1596806426,
-141,0,links.iterable.com,0,1590521352,1596806428,
+134,0,t.mookie1.com,0,1589293104,1596806419,""
+135,0,mobile.eum-appdynamics.com,0,1589293108,1596806420,""
+136,0,mobile-collector.newrelic.com,0,1589412572,1596806420,""
+137,0,www.nickjr.com,0,1589412625,1596807018,""
+138,0,kinesis.us-east-1.amazonaws.com,0,1589412659,1596806424,""
+139,0,mtv.hb.omtrdc.net,0,1589412674,1596806425,""
+140,0,a-fds.youborafds01.com,0,1589412677,1596806426,""
+141,0,links.iterable.com,0,1590521352,1596806428,""
 142,3,(\.|^)(\\.|^)bytecdn\\.cn$$,1,1594259807,1598745318,"TikTok Regex"
 143,3,(\.|^)(\\.|^)bytedance\\.com$$,1,1594259807,1598745319,"TikTok Regex"
 144,3,(\.|^)(\\.|^)bytedance\\.net$$,1,1594259807,1598745319,"TikTok Regex"
@@ -154,9 +154,9 @@ id,type,domain,enabled,date_added,date_modified,comment
 168,3,(\.|^)(\\.|^)toutiao\\.com$$,1,1594259807,1598745339,"TikTok Regex"
 169,3,(\.|^)(\\.|^)worldfcdn\\.com$$,1,1594259807,1598745339,"TikTok Regex"
 170,3,(\.|^)(\\.|^)wsdvs\\.com$$,1,1594259807,1598745340,"TikTok Regex"
-172,1,jetpack.wordpress.com,1,1596806107,1596806107,
+172,1,jetpack.wordpress.com,1,1596806107,1596806107,""
 173,0,f002.backblazeb2.com,1,1597720670,1597720670,"Added from Query Log"
-174,2,(\.|^)backblazeb2\.com$,1,1597720733,1597720733,
+174,2,(\.|^)backblazeb2\.com$,1,1597720733,1597720733,""
 177,0,link.square-enix-games.com,0,1597844989,1597845004,"Added from Query Log"
 178,0,get.geojs.io,1,1597860923,1597860923,"Added from Query Log"
 179,0,assets.adobedtm.com,1,1598282204,1598282204,"Added from Query Log"
