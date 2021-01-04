@@ -1,6 +1,6 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
 1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1589164525,1589164525,"Migrated from /etc/pihole/adlists.list",1609780753
-2,https://mirror1.malwaredomains.com/files/justdomains,1,1589164525,1589164525,"Migrated from /etc/pihole/adlists.list",1606923789
+2,https://mirror1.malwaredomains.com/files/justdomains,0,1589164525,1609782371,"Migrated from /etc/pihole/adlists.list",1606923789
 3,http://sysctl.org/cameleon/hosts,1,1589164525,1589164525,"Migrated from /etc/pihole/adlists.list",1609382057
 4,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1589164525,1589164525,"Migrated from /etc/pihole/adlists.list",1609382057
 5,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1589164525,1589164525,"Migrated from /etc/pihole/adlists.list",1609382058
