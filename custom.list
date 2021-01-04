@@ -1,1 +1,13 @@
-
+192.168.1.30 plex.ethertonhome.com
+192.168.1.36 docker.ethertonhome.com
+192.168.1.34 centos8.ethertonhome.com
+192.168.1.33 centos7.ethertonhome.com
+192.168.1.31 bojack.ethertonhome.com
+192.168.1.35 win10vm.ethertonhome.com
+192.168.1.32 unifi.ethertonhome.com
+192.168.1.20 applepi.ethertonhome.com
+192.168.1.21 cherrypi.ethertonhome.com
+192.168.1.10 proxmox.ethertonhome.com
+192.168.1.220 mfc-l2700dw.ethertonhome.com
+192.168.1.223 hl-l2360d-wl.ethertonhome.com
+192.168.1.30 tautulli.ethertonhome.com
