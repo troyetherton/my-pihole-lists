@@ -2,7 +2,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 1,1,sjs.bizographics.com,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
 2,1,siteintercept.qualtrics.com,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
 3,1,smarticon.geotrust.com,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
-4,1,script.crazyegg.com,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
 5,1,www.google-analytics.com,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
 6,1,script.crazyegg.com.cdn.cloudflare.net,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
 7,1,px.moatads.com,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
@@ -197,3 +196,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 216,0,md-a-c.apptimize.com,1,1608739658,1608739658,"Added from Query Log"
 217,0,sessions.bugsnag.com,1,1608739662,1608739662,"Added from Query Log"
 218,0,control.kochava.com,1,1608739692,1608739692,"Added from Query Log"
+219,0,www.lightboxcdn.com,1,1612723490,1612723490,"Added from Query Log"
+220,0,script.crazyegg.com,1,1612723496,1612723496,"Added from Query Log"
