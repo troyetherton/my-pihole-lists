@@ -202,3 +202,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 227,0,reports.crashlytics.com,1,1613157234,1613157234,"Added from Query Log"
 228,0,conversions.appsflyer.com,1,1613157239,1613157239,"Added from Query Log"
 229,0,go.skimresources.com,1,1613157240,1613157240,"Added from Query Log"
+230,0,goto-target-com.customtraffic.impactradius.com,1,1613835774,1613835774,"Added from Query Log"
+231,0,inapps.appsflyer.com,1,1613835779,1613835779,"Added from Query Log"
+232,0,cf.iadsdk.apple.com,1,1613835790,1613835790,"Added from Query Log"
