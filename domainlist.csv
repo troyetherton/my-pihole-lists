@@ -9,7 +9,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 9,1,csi.gstatic.com,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
 10,1,gcdn.2mdn.net,1,1589164525,1589164525,"Migrated from /etc/pihole/blacklist.txt"
 11,0,web.vortex.data.microsoft.com,0,1589164525,1596806221,"Migrated from /etc/pihole/whitelist.txt"
-12,0,mobile.pipe.aria.microsoft.com,0,1589164525,1596806225,"Migrated from /etc/pihole/whitelist.txt"
 17,0,go.redirectingat.com,1,1589164525,1596812019,"Migrated from /etc/pihole/whitelist.txt"
 20,0,weeklyad.target.com,0,1589164525,1596806436,"Migrated from /etc/pihole/whitelist.txt"
 21,0,mfc-l2700dw.ethertonhome.local,1,1589164525,1596806246,"Migrated from /etc/pihole/whitelist.txt"
