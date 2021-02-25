@@ -204,3 +204,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 230,0,goto-target-com.customtraffic.impactradius.com,1,1613835774,1613835774,"Added from Query Log"
 231,0,inapps.appsflyer.com,1,1613835779,1613835779,"Added from Query Log"
 232,0,cf.iadsdk.apple.com,1,1613835790,1613835790,"Added from Query Log"
+233,0,bitdefender.evyy.net,1,1614268051,1614268051,"Added from Query Log"
