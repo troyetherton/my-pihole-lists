@@ -1,5 +1,4 @@
 192.168.1.30 plex.ethertonhome.com
-192.168.1.36 docker.ethertonhome.com
 192.168.1.34 centos8.ethertonhome.com
 192.168.1.33 centos7.ethertonhome.com
 192.168.1.31 bojack.ethertonhome.com
@@ -13,3 +12,5 @@
 192.168.1.30 tautulli.ethertonhome.com
 192.168.1.11 nas.ethertonhome.com
 192.168.1.12 nextcloud.ethertonhome.com
+192.168.1.34 docker.ethertonhome.com
+192.168.1.34 wiki.ethertonhome.com
